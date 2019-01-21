@@ -1,0 +1,6 @@
+﻿Jane <jane@domain.com>
+Müller <mueller@example.com>
+Пётр <peter@example.com>
+北京 <beijing@example.com>
+noname@example.org
+nonunsubscribe@mail.ru
