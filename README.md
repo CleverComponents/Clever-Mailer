@@ -2,8 +2,8 @@
 
 <img align="left" src="https://www.clevercomponents.com/articles/article039/CleverMailer.jpg" />
 
-The Clever Mailer for RAD Studio is a console application that allows you to send email messages in the text or HTML format with the DKIM signature to the specified recipient list.
+The Clever Mailer for RAD Studio is a console application that allows you to send email messages in text or HTML format with DKIM signatures to a specified recipient list.
 
-This article describes how to compose email message, put DKIM signature, connect to SMTP service and send the message to the list of recipients. The sending status is stored to the report file in text format.
+This article describes how to compose email message, put DKIM signature, connect to SMTP service and send a message to a list of recipients. The result is stored to a report file in text format.
 
 [Read the article](https://www.clevercomponents.com/articles/article039/)
